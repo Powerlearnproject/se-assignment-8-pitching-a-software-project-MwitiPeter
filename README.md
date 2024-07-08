@@ -73,17 +73,17 @@ Answer the following questions based on your understanding of how to pitch a sof
 6. Technical Feasibility:
    - How do you address technical feasibility in your pitch? What details should you include to assure stakeholders of your project's technical viability?
 
-  1. **Technology Stack:** Specify technologies and frameworks suited for project requirements.
+   **Technology Stack:** Specify technologies and frameworks suited for project requirements.
    
-  2. **Architecture:** Outline system architecture for scalability, performance, and security.
+   **Architecture:** Outline system architecture for scalability, performance, and security.
 
-  3. **Development Methodology:** Describe Agile or other approaches for efficient delivery.
+   **Development Methodology:** Describe Agile or other approaches for efficient delivery.
 
-  4. **Resource Requirements:** Detail human and infrastructure needs for development and deployment.
+   **Resource Requirements:** Detail human and infrastructure needs for development and deployment.
 
-  5. **Risk Mitigation:** Identify and address technical risks with mitigation strategies.
+   **Risk Mitigation:** Identify and address technical risks with mitigation strategies.
 
-  6. **Prototyping and Testing:** Mention phases to validate functionality and requirements compliance.
+   **Prototyping and Testing:** Mention phases to validate functionality and requirements compliance.
 
 7. Business Model:
    - Describe the components of a business model that should be presented in a software project pitch. How does a well-defined business model benefit your pitch?
@@ -101,11 +101,12 @@ Answer the following questions based on your understanding of how to pitch a sof
 
    **Implementation Plan Section:**
 
-  1. **Timeline:** Specify key milestones and deadlines for development phases.
-  2. **Tasks and Responsibilities:** Detail roles and responsibilities of team members.
-  3. **Resources:** Outline required tools, technologies, and infrastructure.
-  4. **Testing and Quality Assurance:** Describe methods to ensure functionality and reliability.
-  5. **Deployment Strategy:** Explain how the software will be rolled out to users.
+   **Timeline:** Specify key milestones and deadlines for development phases.
+   **Tasks and Responsibilities:** Detail roles and responsibilities of team members.
+   **Resources:** Outline required tools, technologies, and infrastructure.
+   **Testing and Quality Assurance:** Describe methods to ensure functionality and reliability.
+   **Deployment Strategy:** Explain how the software will be rolled out to users.
+
   **Importance of Outlining a Clear Implementation Strategy:**
   - Ensures everyone understands the project's development stages.
   - Facilitates effective teamwork and resource allocation.
@@ -124,9 +125,9 @@ Answer the following questions based on your understanding of how to pitch a sof
 
     **Call to Action in a Software Project Pitch:**
 
-   1. **Definition:** A CTA prompts stakeholders to take a specific action after hearing your pitch, such as investing, partnering, or using the software.
+     **Definition:** A CTA prompts stakeholders to take a specific action after hearing your pitch, such as investing, partnering, or using the software.
 
-    2. **Examples of Effective CTAs:**
+     **Examples of Effective CTAs:**
    - "Join us in revolutionizing industry by investing in our innovative software solution."
    - "Let's discuss how we can collaborate to bring this software to market and achieve mutual success."
    - "Sign up for a demo to experience firsthand how our software can transform your [specific use case]."
